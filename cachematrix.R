@@ -7,7 +7,7 @@
 # Write the following functions:
 #   
 # makeCacheMatrix: This function creates a special "matrix" object that can cache its 
-inverse.
+#inverse.
 # 
 #
 # For example, if X is a square invertible matrix, then solve(X) returns its inverse.
